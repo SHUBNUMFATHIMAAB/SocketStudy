@@ -1,4 +1,4 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  Study of Socket Programming
 
 ## Aim: 
 To perform a study on Socket Programming
@@ -83,9 +83,9 @@ client_socket.close()
 ```
 ## Output:
 # CLIENT:
-![alt text](<Screenshot 2026-01-31 141842.png>)
+<img width="657" height="107" alt="image" src="https://github.com/user-attachments/assets/a0889fe9-982a-4e94-8a3a-60e4cd8ba51f" />
 # SERVER:
-![alt text](<Screenshot 2026-01-31 141832.png>)
+<img width="501" height="153" alt="image" src="https://github.com/user-attachments/assets/0ab17791-3267-420d-95b7-a0ffebc03fed" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully

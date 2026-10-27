@@ -82,6 +82,7 @@ client_socket.send("Acknowledgement received from the client.".encode())
 client_socket.close()
 ```
 ## Output:
+
 # CLIENT:
 <img width="657" height="107" alt="image" src="https://github.com/user-attachments/assets/a0889fe9-982a-4e94-8a3a-60e4cd8ba51f" />
 # SERVER:
